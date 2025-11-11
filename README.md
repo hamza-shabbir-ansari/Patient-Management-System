@@ -101,5 +101,5 @@ Connect with me and follow for more projects in modern full-stack development, A
 
 | Platform | Link |
 | :--- | :--- |
-| **GitHub** | [Hamza Shabbir's GitHub Profile](https://github.com/hamza-shabbir-ansari) |
+| **GitHub** | [Follow GitHub Profile](https://github.com/hamza-shabbir-ansari) |
 | **LinkedIn** | [Connect on LinkedIn](https://www.linkedin.com/in/hamza-shabbir-ansari-92b0302a5/) |
